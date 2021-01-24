@@ -1,2 +1,2 @@
-{"mainfile":"src/app/app.component.ts","previewWebApp":true,"viewtype":"browser","runmenucommand":"sh /home/theia/startreact.sh && npm install && npm start;","testmenucommand":"> .testcaseop && :> .testcaseop2 && sh ./test.sh > ./.testcaseop","showterminal":true,"showQuestionInPopup":true,"outputtype":"web"}
+{"mainfile":"src/app/app.component.ts","previewWebApp":true,"viewtype":"browser","runmenucommand":"sh /home/theia/startreact.sh && cp -r /home/theia/angularmodules/moviefinder/node_modules/ ./ && npm start;","testmenucommand":"> .testcaseop && :> .testcaseop2 && sh ./test.sh > ./.testcaseop","showterminal":true,"showQuestionInPopup":true,"outputtype":"web"}
 
